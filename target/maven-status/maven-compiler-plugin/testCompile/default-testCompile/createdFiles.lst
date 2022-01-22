@@ -1,0 +1,5 @@
+Tests\ProductTest.class
+Tests\Base.class
+Requests\RequestFactory.class
+Client\RestClient.class
+utilities\ReadConfig.class

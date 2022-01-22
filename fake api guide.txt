@@ -1,0 +1,2 @@
+====>check db.json is there or not
+====>if it exists then Run the command  ====> json-server --watch db.json
